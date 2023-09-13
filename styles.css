@@ -1,0 +1,194 @@
+
+.editnav {
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-left: 25px;
+    letter-spacing: 5px;
+    color: black;
+
+}
+
+.nav2 {
+    float: right;
+    padding: 8px 16px;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    outline: none;
+    color: black;
+    background-color: white;
+
+}
+a:link { text-decoration: none;}
+
+.imgdiv {
+background-image: url("architect.jpg");
+width: 1500px;
+height: 800px;
+margin-top: 20px;
+background-size: contain;
+margin-left: 15px;
+
+
+}
+
+.img2 {
+    background-color: black;
+    width: 70px;
+    height: 50px;
+    color: white;
+    margin-left: 40%;
+    margin-top: 430px;
+    display: inline-block;
+    opacity: 0.75;
+    
+    
+    
+}
+
+.divedit {
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder;
+    margin-left: 6px;
+
+}
+.divedit2 {
+    letter-spacing: 2px;
+    font-size: 30px;
+    color: white;
+}
+.headings {
+    padding-top: 32px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 16px;
+}
+hr {
+    opacity: 0.2;
+}
+
+.divss {
+    background-image: url("house5.jpg");
+    width: 340px;
+    height: 220px;
+    background-size: contain;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 25px ; 
+
+
+    
+}
+.divss2 {
+    background-image: url("house2.jpg");
+    width: 340px;
+    height: 220px;
+    background-size: contain;
+    display: inline-block;
+    margin-left: 25px; 
+    margin-top: 25px ; 
+ 
+}
+.divss3 {
+    background-image: url("house3.jpg");
+    width: 340px;
+    height: 220px;
+    background-size: contain;
+    display: inline-block;
+    margin-left: 25px; 
+    margin-top: 25px ; 
+ 
+}
+.divss4 {
+    background-image: url("house4.jpg");
+    width: 340px;
+    height: 220px;
+    background-size: contain;
+    display: inline-block;
+    margin-left: 25px; 
+    margin-top: 25px ; 
+}
+
+
+.divs {
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    display: inline-block;
+    color: white;
+    text-align: center;
+
+}
+
+.About {
+    width: 350px;
+    height: 452px;
+    margin-left: 18px;
+    display: inline-block;
+    margin-top: 16px;
+}
+.aboutdetail {
+    width: 350px;
+    height: 230px;
+}
+
+.subheading {
+   font-family: sans-serif;
+   font-weight: 400;
+   margin: 10px; 
+   font-size: 24px;
+}
+.opacity {
+    opacity: 0.60;
+    margin-left: 10px;
+    font-size: 15px;
+}
+.buttons {
+    margin-top: 40px;
+    width: max-content;
+    font-family: sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    width: 350px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    
+}
+.buttons:hover { background-color: #DEDEDE;}
+.forms {
+    width: 1500px;
+    display: block;
+    padding: 8px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin: 16px;
+}
+.buttonsend {
+    color: white;
+    background-color: black;
+    margin: 16px;
+    text-align: center;
+    cursor: pointer;
+    width: 153px;
+    height: 38px;
+    border: none;
+
+}
+.buttonsend:hover {
+    background-color: #DEDEDE;
+    color: black;
+    
+}
+.footers {
+    background-color: black;
+    font-size: small;
+    text-align: center;
+    text-decoration: solid;
+    width: 1535px;
+    height: 100px;
+    color: white;
+    padding: 20px;
+}
